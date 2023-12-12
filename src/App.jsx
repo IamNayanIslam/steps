@@ -1,9 +1,10 @@
 import Step from "./Components/Step";
+import "./App.css";
 
 function App() {
   return (
     <>
-      <div>
+      <div className="wrap">
         <Step />
       </div>
     </>
