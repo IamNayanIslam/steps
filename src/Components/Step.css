@@ -12,7 +12,7 @@ body {
   background-color: #f7f7f7;
   border-radius: 7px;
   padding: 25px 100px;
-  margin: 100px auto;
+  margin: 0px auto;
 }
 
 .numbers {
@@ -90,13 +90,13 @@ h3 {
 
 @media screen and (max-width: 500px) {
   .steps {
-    width: 96%;
+    width: 390px;
     padding: 10px 20px;
     margin: 0 auto;
   }
 
   .buttons {
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
   }
 
